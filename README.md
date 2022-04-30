@@ -1,19 +1,8 @@
 Wobble - a social media application for developers
 
-Group No - 15
-
-GitHub Repo - https://github.com/bhavesh-20/Wobble.git
-
-Team:
-Kaushik Rishi : S20190010088
-Bhavesh C : S20190010034
-Srineer K : S20190010079
-Karthik K : S20190010100
-Manideep K : S20190010106
-
 Instructions:
 
-1. Extract the zip file
+1. Git clone
 2. Change into server directory
    - `cd server`
 3. Install required packages
